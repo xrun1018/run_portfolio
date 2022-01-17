@@ -1,23 +1,16 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'Shanghai University of Sport',
+        course: 'Journalism',
+        startYear: '2013',
+        endYear: '2017'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
+        institution: 'University of North Carolina at Greensboro',
+        course: 'Visiting International Student Program',
         startYear: '2015',
-        endYear: '2019'
-    },
-    {
-        id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
+        endYear: ''
     },
 ]
